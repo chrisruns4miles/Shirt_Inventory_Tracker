@@ -42,6 +42,8 @@ Tables are created in order to show the total number of shirts used based on the
 
 -The shirt color matches the shirt color to the left of the "Total Used" column
 
+-The date the shirts were pulled are within the date range specified in cells E1 & I1
+
 ### Shirt Inventory Charts Tab
 <img width="588" alt="Screen Shot 2022-04-24 at 6 37 44 PM" src="https://user-images.githubusercontent.com/102498189/165006986-5aca9bb1-4f40-41d7-bd3b-9b5fb820542e.png">
 Utilized data from the "Shirt Tracker" tab to create informative pivot tables and pivot charts to be utilized in the "Dashboard" tab.
